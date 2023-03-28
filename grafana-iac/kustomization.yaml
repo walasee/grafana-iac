@@ -1,0 +1,5 @@
+resources: 
+- ./agent-bare.yaml 
+- ./agent-configmap.yaml
+- ./agent-logs.yaml
+- ./agent-loki.yaml
